@@ -22,3 +22,20 @@
   </div>
   <hr />
   </div>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("#img1").click(function(){
+  $("#table-2").hide();
+  $("#table-1").show();
+  });
+  $("#img2").click(function(){
+  $("#table-1").hide();
+  $("#table-2").show();
+  });
+});
+</script>
+/* star */
+#star{ margin-left:50px; margin-right:50px;}
+#star-1{ border-left:5px solid red;line-height:38px; font-size:24px; font-family:"方正兰亭超细黑简体"; font-weight:bold; float:left;}
+#star-1-1{ float:right; margin-right:50px}
+/* star */
