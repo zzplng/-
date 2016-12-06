@@ -1,0 +1,24 @@
+<div id="star">
+  <div id="star-1">我喜欢的明星</div><div id="star-1-1"><img id="img1" src="images/left.gif" width="40" height="40" /><img id="img2" src="images/right.gif" width="40" height="40" /></div>
+  <div id="star-2">
+    <table width="100%" border="0" id="table-1">
+      <tr>
+        <td><img src="images/g.jpg" width="185" height="247" /></td>
+        <td><img src="images/g.jpg" width="185" height="247" /></td>
+        <td><img src="images/g.jpg" width="185" height="247" /></td>
+        <td><img src="images/g.jpg" width="185" height="247" /></td>
+        <td><img src="images/g.jpg" width="185" height="247" /></td>
+      </tr>
+    </table>
+    <table width="100%" border="0" id="table-2" style="display:none">
+      <tr>
+        <td><img src="images/1.jpg" width="185" height="247" /></td>
+        <td><img src="images/g.jpg" width="185" height="247" /></td>
+        <td><img src="images/g.jpg" width="185" height="247" /></td>
+        <td><img src="images/g.jpg" width="185" height="247" /></td>
+        <td><img src="images/g.jpg" width="185" height="247" /></td>
+      </tr>
+    </table>
+  </div>
+  <hr />
+  </div>
